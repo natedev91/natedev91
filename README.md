@@ -23,7 +23,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natedev91&theme=highcontrast" alt="natedev91" /></p>
 
-
+<h3 align="center">Daily Codewars Solutions</h3>
+<ul>
+  <li><a href="https://github.com/natedev91/codewars_solutions/blob/main/js/solution001.js">codewars-solutions/js/solution001.js</a><li>
+</ul>
 <!---
 natedev91/natedev91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
