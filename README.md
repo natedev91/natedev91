@@ -25,7 +25,7 @@
 
 <h3 align="center">Daily Codewars Solutions</h3>
 <ul>
-  <li><a href="https://github.com/natedev91/codewars_solutions/blob/main/js/solution001.js">codewars-solutions/js/solution001.js</a><li>
+  <li><a href="https://github.com/natedev91/codewars_solutions/blob/main/js/solution001.js">codewars-solutions/js/solution001.js</a></li>
 </ul>
 <!---
 natedev91/natedev91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
