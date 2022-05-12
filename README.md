@@ -25,12 +25,16 @@
 
 <h3 align="center">Daily Codewars Solutions</h3>
 <div>
-  <p>Starting May 11, 2022, I'm initiating a commitment to complete at least one codewars challenge a day in order to hone my skills in Javascript and become a more efficient coder. This section will serve as a quick reference to find the solutions I have submitted. These files are originally located in their own repo titled codewars_solutions.</p>
+  <p>Starting May 9, 2022, I'm initiating a commitment to complete at least one codewars challenge a day in order to hone my skills in Javascript and become a more efficient coder. This section will serve as a quick reference to find the solutions I have submitted. These files are originally located in their own repo titled codewars_solutions.</p>
 </div>
 <ul>
+  <h6>May 9, 2022</h6>
   <li><a href="https://github.com/natedev91/codewars_solutions/blob/main/js/solution001.js">codewars-solutions/js/solution001.js</a></li>
+  <h6>May 10, 2022</h6>
   <li><a href="https://github.com/natedev91/codewars_solutions/blob/main/js/solution002.js">codewars-solutions/js/solution002.js</a></li>
+  <h6>May 11, 2022</h6>
   <li><a href="https://github.com/natedev91/codewars_solutions/blob/main/js/solution003.js">codewars-solutions/js/solution003.js</a></li>
+  <h6>May 12, 2022</h6>
   <li><a href="https://github.com/natedev91/codewars_solutions/blob/main/js/solution004.js">codewars-solutions/js/solution004.js</a></li>
 </ul>
 <!---
